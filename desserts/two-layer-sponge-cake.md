@@ -1,6 +1,6 @@
 ## Result
-`ø 20cm (8 inch)`
-`h 10cm (4 inch) - 5cm (2 inch) per layer`
+`ø 20cm (8 inch)`<br>
+`h 10cm (4 inch) to 5cm (2 inch) per layer`
 ## Ingredients
 - [ ] `225g (8 ounces) Self-Raising Flour`
 - [ ] `225g (8 ounces) Caster Sugar`

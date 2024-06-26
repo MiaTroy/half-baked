@@ -12,15 +12,15 @@
 ## Preparation
 1. Whisk the `Butter` until soft
 2. Add `Icing Sugar` and whisk until combined
-    - Adding it gradually might stop it flying out of the bowl
+   - Adding it gradually might stop it flying out of the bowl
 3. Add `Lemon Zest` and mix until evenly distributed
 4. Slowly add the `Lemon Juice`
-    - 1 tsp at a time
-    - Fully incorporate before adding the next tsp
+   - 1 tsp at a time
+   - Fully incorporate before adding the next tsp
 5. Slowly add the `Milk`
-    - 1 tsp at a time
-    - Fully incorporate before adding the next tsp
-    - Stop adding when it becomes the consistency of cream cheese
+   - 1 tsp at a time
+   - Fully incorporate before adding the next tsp
+   - Stop adding when it becomes the consistency of cream cheese
 ## Source
 [Charlotte Oates - Charlottes Lively Kitchen](https://charlotteslivelykitchen.com/lemon-buttercream/)
 ## Tags

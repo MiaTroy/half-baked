@@ -2,7 +2,7 @@
 ## Mains
 - [Chicken Noodle Soup](mains/chicken-noodle-soup.md)
 #### Components
-- None
+- [Potato Salad](mains/components/potato-salad.md)
 ## Desserts
 - [Two Layer Sponge Cake](desserts/two-layer-sponge-cake.md)
 ### Components
