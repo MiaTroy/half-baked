@@ -3,6 +3,7 @@
 ## Ingredients
 - [ ] `1 Potato : peeled and chopped into 1cm (0.4 inch) to 2cm (0.8 inch) cubes`
 - [ ] `2 Onions : peeled and diced`
+- [ ] `2 Spring Onions : chopped`
 - [ ] `3+ tbsp Mayonnaise`
 - [ ] `2 tbsp Olive Oil`
 - [ ] `1 tsp Parsley`
@@ -18,10 +19,11 @@
    - They should be sizzling quietly
    - Periodically turn them over with the `Stiring Spatula`
    - Cook for approximately 20 minutes until soft inside
-2. Turn off the heaqt then add the `Mayonnaise`, `Parsley` and `Oregano`, folding it into the cooked `Potato` and `Onion` with the `Stiring Spatula`
+2. Add the `Spring Onions` and cook for 2 more minutes
+3. Turn off the heat then add the `Mayonnaise`, `Parsley` and `Oregano`, folding it into the cooked `Potato` and `Onion` with the `Stiring Spatula`
    - More `Mayonnaise` may be required to coat everything properly (personal preference)
 ## Source
 Mia Troy
 ## Tags
-#main/salad<br>
+#sides/salad<br>
 #potato #mayonnaise

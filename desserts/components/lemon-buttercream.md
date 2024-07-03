@@ -24,5 +24,5 @@
 ## Source
 [Charlotte Oates - Charlottes Lively Kitchen](https://charlotteslivelykitchen.com/lemon-buttercream/)
 ## Tags
-#dessert/cake/filling #dessert/cake/topping<br>
+#desserts/cake/filling #desserts/cake/topping<br>
 #lemon #icing

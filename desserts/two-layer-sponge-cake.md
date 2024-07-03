@@ -36,4 +36,4 @@
 ## Source
 [Sophie Godwin - BBC goodfood](https://www.bbcgoodfood.com/recipes/sponge-cake)
 ## Tags
-#dessert/cake
+#desserts/cake
