@@ -1,6 +1,10 @@
 ## Result
 `ø 20cm (8 inch)`<br>
 `h 10cm (4 inch) to 5cm (2 inch) per layer`
+## Allergens
+- `Gluten : Self-Raising Flour`
+- `Milk : Milk, Butter`
+- `Eggs : Eggs`
 ## Ingredients
 - [ ] `225g (8 ounces) Self-Raising Flour`
 - [ ] `225g (8 ounces) Caster Sugar`

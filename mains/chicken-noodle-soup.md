@@ -1,5 +1,7 @@
 ## Result
 `1.1L (37 fluid ounces)`
+## Allergens
+- `Gluten : Rice/Wheat Noodles, Soy Sauce`
 ## Ingredients
 - [ ] `900ml (30 fluid ounces) Chicken/Vegetable Stock`
 - [ ] `1 Chicken Breast`
