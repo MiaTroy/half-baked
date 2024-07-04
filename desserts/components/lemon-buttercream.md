@@ -1,7 +1,9 @@
 ## Result
 `750g (26.5 ounces)`
-## Allergens
-- `Milk : Milk, Butter`
+## Dietary Information
+| Allergen | Ingredient |
+| -------- | ------ |
+| `Milk`   | `Milk` `Butter` |
 ## Ingredients
 - [ ] `250g (8.8 ounces) Butter`
 - [ ] `500g (17.6 ounces) Icing Sugar`

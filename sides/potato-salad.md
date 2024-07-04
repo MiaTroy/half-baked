@@ -1,7 +1,9 @@
 ## Result
 `1 potato of salad`
-## Allergens
-- `Eggs : Mayonnaise`
+## Dietary Information
+| Allergen | Ingredient |
+| -------- | ------ |
+| `Eggs`   | `Mayonnaise` |
 ## Ingredients
 - [ ] `1 Large Baking Potato : peeled and chopped into 1cm (0.4 inch) to 2cm (0.8 inch) cubes`
 - [ ] `2 Onions : peeled and diced`
@@ -17,16 +19,16 @@
 - [ ] `Chopping Board`
 - [ ] `Stiring Spatula`
 ## Preparation
-1. Fry the `Potato` and `Onion` in the `Olive Oil` on a medium heat in the `Frying Pan`
-   - They should be sizzling after a few minutes
+1. Fry the `Potato` and `Onion` in the `Olive Oil` on a **Medium Heat** in the frying pan for approximately **20 Minutes**
+   - They should be sizzling gently
    - If they start to burn, turn down the heat
-   - Periodically turn them over every 1-2 minutes with the `Stiring Spatula`
-   - Cook for approximately 20 minutes until soft inside and dark brown on the outside
-2. Add the `Spring Onions` and cook for 1 more minute
-3. Turn off the heat then immediately add the `Mayonnaise`, `Parsley` and `Oregano`, folding it in with the `Stiring Spatula`
+   - Periodically turn them over every 1-2 minutes with the spatula
+   - Cook until soft inside and dark brown on the outside
+2. Add the `Spring Onions` and cook for **1 Minute**
+3. Turn off the heat then immediately add the `Mayonnaise`, `Parsley` and `Oregano`, folding them in with the spatula
 > Serve immediately or allow to cool in a separate container for 45-60 minutes before refrigerating
 ## Source
-Mia Troy
+Mia Troy - contact@descendingnode.com
 ## Tags
 #sides/salad<br>
 #potato #mayonnaise
