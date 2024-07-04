@@ -1,18 +1,22 @@
 ## Result
 `750g (26.5 ounces)`
+
 ## Dietary Information
 | Allergen | Ingredient |
 | -------- | ------ |
 | `Milk`   | `Milk` `Butter` |
+
 ## Ingredients
 - [ ] `250g (8.8 ounces) Butter`
 - [ ] `500g (17.6 ounces) Icing Sugar`
 - [ ] `5 Lemon Zest`
 - [ ] `1/2 Lemon Juice`
 - [ ] `1+ tsp Milk`
+
 ## Equipment
 - [ ] `Mixing Bowl`
 - [ ] `(Electric) Whisk`
+
 ## Preparation
 1. Whisk the `Butter` until soft
 2. Add `Icing Sugar` and whisk until combined
@@ -25,8 +29,10 @@
    - 1 tsp at a time
    - Fully incorporate before adding the next tsp
    - Stop adding when it becomes the consistency of cream cheese
+
 ## Source
 [Charlotte Oates - Charlottes Lively Kitchen](https://charlotteslivelykitchen.com/lemon-buttercream/)
+
 ## Tags
 #desserts/cake/filling #desserts/cake/topping<br>
 #lemon #icing

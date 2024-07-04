@@ -1,12 +1,14 @@
 ## Result
 `ø 20cm (8 inch)`<br>
 `h 10cm (3 inch) : 5cm (1.5 inch) per layer`
+
 ## Dietary Information
 | Allergen | Ingredient |
 | -------- | ------ |
 | `Gluten` | `Self-Raising Flour` |
 | `Milk`   | `Milk` `Butter`      |
 | `Eggs`   | `Eggs`               |
+
 ## Ingredients
 - [ ] `225g (8 ounces) Self-Raising Flour`
 - [ ] `225g (8 ounces) Caster Sugar`
@@ -18,6 +20,7 @@
 - [ ] `1/2 Lemon Zest`
 - [ ] `Cake Filling` #dessert/cake/filling
 - [ ] `Cake Topping` #dessert/cake/topping
+
 ## Equipment
 - [ ] `Fan Oven`
 - [ ] `Two 20cm (8 inch) Cake Tins`
@@ -26,6 +29,7 @@
 - [ ] `Wire Rack`
 - [ ] `Butter Knife`
 - [ ] `Bread knife`
+
 ## Preparation
 1. Grease the cake tins
 2. Whisk the `Butter` and `Sugar` in the mixing bowl until pale and fluffy
@@ -39,7 +43,9 @@
 10. Cut the top, domed surface of the cake layers off with a bread knife, making them flat on both sides
 11. Stack and fill the cake layers with the `Cake Filling`
 12. Cover the cake with the `Cake Topping`
+
 ## Source
 [Sophie Godwin - BBC goodfood](https://www.bbcgoodfood.com/recipes/sponge-cake)
+
 ## Tags
 #desserts/cake

@@ -11,10 +11,12 @@ for example:<br>
 `x Main Ingredients of food`<br>
 for example:<br>
 `1 potato of salad`
+
 ## Dietary Information
 | Allergen | Ingredient |
 | -------- | ------ |
 | `Allergen` | `Ingredient` |
+
 ## Ingredients
 - [ ] `metric measurement (imperial measurement) Ingredient`<br>
 for example:<br>
@@ -23,18 +25,26 @@ for example:<br>
 - [ ] `x Ingredient : ingredient preparation`<br>
 for example:<br>
 - [ ] `2 Onions : peeled and diced`
+
+### Optional
+- [ ] `Optional Ingredient`
+
 ## Equipment
 - [ ] `Utensil`
+
 ## Preparation
 1. `Ingredients` in code blocks to make usage more visible
 2. Cooking step with approximate **Stove-Top Heat Level** and **Cooking Time**
    - Further details if necessary
 3. Baking step with **Cooking Time** at **Metric Temperature (Imperial Temperature)**
+
 > Serving instructions
+
 ## Source
 \[Author - Website/Blog Name](recipe link)
 <br>**or**<br>
 Name/Username - optional email address
+
 ## Tags
 #directory/dish_type<br>
 #main_ingredient #other_tags
