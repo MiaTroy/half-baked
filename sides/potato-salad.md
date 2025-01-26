@@ -2,8 +2,8 @@
 `1 potato of salad`
 
 ## Dietary Information
-| Allergen | Ingredient |
-| -------- | ------ |
+| Allergen | Ingredient   |
+| -------- | ------------ |
 | `Eggs`   | `Mayonnaise` |
 
 ## Ingredients
