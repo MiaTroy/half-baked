@@ -20,14 +20,14 @@
 - [ ] `Peeler`
 - [ ] `Kitchen Knife`
 - [ ] `Chopping Board`
-- [ ] `Stiring Spatula`
+- [ ] `Stirring Spatula`
 
 ## Preparation
 1. Fry the `Potato` and `Onion` in the `Olive Oil` on a **Medium Heat** in the frying pan for approximately **20 Minutes**
-   - They should be sizzling gently
-   - If they start to burn, turn down the heat
-   - Periodically turn them over every 1-2 minutes with the spatula
-   - Cook until soft inside and dark brown on the outside
+    - They should be sizzling gently
+    - If they start to burn, turn down the heat
+    - Periodically turn them over every 1-2 minutes with the spatula
+    - Cook until soft inside and dark brown on the outside
 2. Add the `Spring Onions` and cook for **1 Minute**
 3. Turn off the heat then immediately add the `Mayonnaise`, `Parsley` and `Oregano`, folding them in with the spatula
 

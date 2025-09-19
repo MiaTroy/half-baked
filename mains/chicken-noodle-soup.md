@@ -33,9 +33,9 @@
 2. Bring the mixture to a boil
 3. Simmer for **20 minutes**
 4. Take the `Chicken` out and shred it with the forks
-   - Hold it down with the first fork
-   - Use the second fork to tear at the meat closest to the first fork, shredding it
-   - Move the first fork once no more meat to shred in that area
+    - Hold it down with the first fork
+    - Use the second fork to tear at the meat closest to the first fork, shredding it
+    - Move the first fork once no more meat to shred in that area
 5. Add the `Chicken`, `Rice/Noodles`, `Sweetcorn/Peas`, `Mushrooms`, `Spring Onions` and `Soy Sauce` to the pot
 6. Simmer for **4 minutes** until the `Noodles` are tender
 
